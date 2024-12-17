@@ -4,10 +4,7 @@
 
 # Overview
 
-This project is a simple REST API that generates random numbers. The project is
-written in Python and uses the Flask framework to create the REST API. The
-project is distributed as a Docker image, so you can run it on any platform that
-supports Docker.
+This project provides a simple REST API for generating random numbers. It is built using Python and the Flask framework. The application is packaged as a Docker image, making it easy to run on any platform that supports Docker.
 
 # Installation
 
